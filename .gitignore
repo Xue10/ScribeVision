@@ -1,4 +1,5 @@
 .env
 *.txt
+!requirements.txt
 results_*.md
 __pycache__

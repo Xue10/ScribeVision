@@ -1,0 +1,6 @@
+gradio
+pdf2image
+Pillow
+requests
+python-dotenv
+numpy 
