@@ -26,7 +26,7 @@ Currently, multimodal LLMs cannot process scanned PDFs directly. This tool conve
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd pdf-analysis-tool
+cd ScribeVision
 ```
 
 2. Install the required packages:
@@ -71,10 +71,3 @@ The tool generates a markdown file for each analysis with:
 - Results for each page
 - Formatted content for easy reading
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Add your chosen license here]
